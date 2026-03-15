@@ -1,0 +1,11 @@
+Algoritmos-de-Ordenacao/
+├── Imprimir-vetores/
+│   ├── imprime_cria.c
+│   └── imprime_cria.h
+├── Ordena-vetores/
+│   ├── ordena.c
+│   └── ordena.h
+├── Principal/
+│   └── main.c
+├── CMakeLists.txt
+└── README.txt
