@@ -1,5 +1,7 @@
 # Projeto: Algoritmos de Ordenação
 
+Projeto desenvolvido no 2º período do curso de Sistemas de Informação da UFOP (ICEA – João Monlevade), para a disciplina Algoritmos de ordenação 1.
+
 Este projeto implementa e avalia o desempenho de diversos algoritmos de ordenação, permitindo testes com diferentes tamanhos e estados iniciais de vetores.
 
 ⚙️ Como compilar
